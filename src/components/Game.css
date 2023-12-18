@@ -1,0 +1,74 @@
+.game h1 {
+    font-size: 3.5em;
+    font-family:'Courier New', Courier, monospace;
+    color: white;
+}
+
+.game p {
+    margin-bottom: 1em;
+    font-family:'Courier New', Courier, monospace;
+    color: white;
+}
+
+.game button {
+    background-color: rgba(0, 183, 255, 0.5);
+    color: white;
+    padding: 0 45px;
+    border: 1px solid #FFF;
+    border-radius: 25px;
+    height: 50px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 1.2em;
+    cursor: pointer;
+    transition: 0.4s;
+}
+
+.game button:hover {
+    background-color: rgb(0, 183, 255);
+}
+
+.points span {
+    color: white;
+    font-weight: bold;
+}
+
+.tip span , h3{
+    color: white;
+}
+
+.wordContainer {
+    width: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.letter, .blankSquare {
+    font-size: 70px;
+    line-height: 1.5;
+    border: 3px solid #000;
+    height: 100px;
+    width: 100px;
+    text-transform: uppercase;
+    background-color: white;
+    font-weight: bold;
+}
+
+.letterContainer p {
+    margin-bottom: 1.2em;
+}
+
+.letterContainer form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.letterContainer input {
+    height: 50px;
+    width: 50px;
+    font-size: 2em;
+    text-align: center;
+    margin-right: 1em;
+}

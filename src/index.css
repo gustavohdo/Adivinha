@@ -1,0 +1,13 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-image: linear-gradient(to bottom, rgba(255, 0, 76, 0.514), rgba(252, 252, 252, 0.425)),url('../public/fundo.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-attachment: fixed;
+}
