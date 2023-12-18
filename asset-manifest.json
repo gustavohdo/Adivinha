@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Adivinha/static/css/main.b601a928.css",
+    "main.js": "/Adivinha/static/js/main.2517a65a.js",
+    "static/js/787.19de0971.chunk.js": "/Adivinha/static/js/787.19de0971.chunk.js",
+    "static/media/fundo.jpg": "/Adivinha/static/media/fundo.a247f0377a2ea40c181f.jpg",
+    "index.html": "/Adivinha/index.html",
+    "main.b601a928.css.map": "/Adivinha/static/css/main.b601a928.css.map",
+    "main.2517a65a.js.map": "/Adivinha/static/js/main.2517a65a.js.map",
+    "787.19de0971.chunk.js.map": "/Adivinha/static/js/787.19de0971.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b601a928.css",
+    "static/js/main.2517a65a.js"
+  ]
+}
