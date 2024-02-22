@@ -1,3 +1,7 @@
+![image](https://github.com/gustavohdo/Adivinha/assets/23175018/55a27304-41c9-4ebd-8d5c-2baf585ceb39)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
